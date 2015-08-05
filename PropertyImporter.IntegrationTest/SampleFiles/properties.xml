@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+  <properties>
+    <property>
+      <Address>32 Sir John-Young Crescent, Sydney, NSW</Address>
+      <AgencyCode>OBTRE</AgencyCode>
+      <Name>“*Super*-High! APARTMENTS (Sydney)</Name>
+      <Latitude>-33.8709345</Latitude>
+      <Longitude>151.2171441</Longitude>
+    </property>
+    <property>
+      <Address>367 George St, Sydney, NSW</Address>
+      <AgencyCode>LRE</AgencyCode>
+      <Name>Apple Store Apartments</Name>
+      <Latitude>-33.8689072</Latitude>
+      <Longitude>151.2066545</Longitude>
+    </property>
+    <property>
+      <Address>8 Parklane, Chippendale NSW 2008</Address>
+      <AgencyCode>CRE</AgencyCode>
+      <Name>Central Park Luxury Apartment</Name>
+      <Latitude>-34.8854033</Latitude>
+      <Longitude>151.200761</Longitude>
+    </property>
+  </properties>
